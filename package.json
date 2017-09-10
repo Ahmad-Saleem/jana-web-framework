@@ -1,0 +1,27 @@
+{
+  "name": "e-commerce-express-graphqlcms",
+  "version": "1.0.0",
+  "description": "graphGL, graphGL CMS, node.js, Express, and Appolo client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmad Saleem",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "compression": "^1.7.0",
+    "cookie-parser": "^1.4.3",
+    "engin": "^1.0.0",
+    "engine": "^0.1.12",
+    "express": "^4.15.4",
+    "helmet": "^3.8.1",
+    "mongodb": "^2.2.31",
+    "mu2": "^0.5.21",
+    "mu2express": "0.0.1",
+    "mustache": "^2.3.0",
+    "mustache-express": "^1.2.5",
+    "mysql": "^2.14.1",
+    "pug": "^2.0.0-rc.3"
+  }
+}
